@@ -12,7 +12,7 @@
   "dependencies": {
     "@react-google-maps/api": "^2.20.8",
     "firebase": "^12.13.0",
-    "framer": "^3.0.4",
+    "framer-motion": "^12.39.0",
     "leaflet": "^1.9.4",
     "motion": "^12.39.0",
     "react": "^19.2.6",
