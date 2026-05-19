@@ -4,7 +4,6 @@ import Signup from "./Signup";
 import ReportIssue from "./ReportIssue";
 import AnalyticsDashboard from "./AnalyticsDashboard";
 import VolunteerMatch from "./VolunteerMatch";
-import MapsDashboard from "./MapDashboard";
 import Chatbot from "./Chatbot";
 import Navbar from "./Navbar";
 import LiveDashboard from "./LiveDashboard";
@@ -27,8 +26,6 @@ function App() {
         <Route path="/report" element={<ReportIssue />} />
 
         <Route path="/volunteer" element={<VolunteerMatch />} />
-
-        <Route path="/maps" element={<MapsDashboard />} />
 
         <Route path="/chatbot" element={<Chatbot />} />
 
